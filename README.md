@@ -1,2 +1,6 @@
-# CourseAppUsingSpringBoot
-This is my first Spring Boot application without using Database.
+# Title
+Created a course application where user can have multiple courses.
+
+# Technologies & Tools:
+Development tool: Postman
+Backend: Spring Boot
